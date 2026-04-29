@@ -37,7 +37,7 @@ Issu d'un parcours universitaire scientifique (MIPC), je combine rigueur académ
 ---
 
 ### Profil et Engagement
-* **Formation :** Mathématiques, Informatique, Physique et Chimie (MIPC).
+* **Formation :** Mathématiques, Informatique.
 * **Engagement :** Fondateur d'une communauté Tech panafricaine dédiée au mentorat et au partage de connaissances.
 * **Objectif :** Préparation active de la certification **ISC2 CC** et approfondissement de l'automatisation via Python.
 
