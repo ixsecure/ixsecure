@@ -33,7 +33,7 @@ Issu d'un parcours universitaire scientifique en Mathématiques, Informatique, P
 ---
 
 ### Certifications et Organismes
-![Cisco](https://img.shields.io/badge/Cisco_CCST-005073?style=flat&logo=cisco&logoColor=white) ![CCNA](https://img.shields.io/badge/Cisco_CCNA-005073?style=flat&logo=cisco&logoColor=white) ![UN-CHK](https://img.shields.io/badge/Force--N_UN--CHK-FFD700?style=flat&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco_CCST-005073?style=flat&logo=cisco&logoColor=white) ![CCNA](https://img.shields.io/badge/Cisco_CCNA-005073?style=flat&logo=cisco&logoColor=white) ![UN-CHK](https://img.shields.io/badge/Force--N_UN--CHK-FFD700?style=flat&logoColor=black) ![ISC2](https://img.shields.io/badge/ISC2-52A942?style=flat&logo=isc2&logoColor=white) ![TryHackMe](https://img.shields.io/badge/TryHackMe-212c42?style=flat&logo=tryhackme&logoColor=white)
 
 ---
 
