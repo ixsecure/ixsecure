@@ -46,4 +46,5 @@ Notre mission est de démocratiser l'accès aux technologies, au réseau et à l
 ### 🤝 Travaillons ensemble
 Je suis toujours ouvert à discuter de **sécurité défensive**, d'**architecture réseau** ou de projets collaboratifs au sein de la **communauté Tech africaine**.
 
-[LinkedIn](TON_LIEN_LINKEDIN) • [Email](delmasrichmond@gmail.com)
+[LinkedIn](
+linkedin.com/in/richmonddelmas) • [Email](delmasrichmond@gmail.com)
