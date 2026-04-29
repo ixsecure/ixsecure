@@ -41,5 +41,5 @@ Actuellement en phase d'apprentissage pour automatiser les processus de sécurit
 ### Contact et Collaboration
 Je suis ouvert aux échanges concernant la sécurité défensive, l'architecture réseau ou le développement de projets communautaires tech.
 
-[LinkedIn](TON_LIEN_LINKEDIN) • [Email](mailto:TON_EMAIL)
+[LinkedIn](linkedin.com/in/richmonddelmas) • [Email](delmasrichmond@gmail.com)
 
