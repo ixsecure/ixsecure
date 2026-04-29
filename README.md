@@ -48,7 +48,7 @@ Issu d'un parcours universitaire scientifique en Mathématiques, Informatique, P
 ---
 
 ### Contact et Collaboration
-[LinkedIn](TON_LIEN_LINKEDIN) • [Email](mailto:TON_EMAIL)
+[LinkedIn](linkedin.com/in/richmonddelmas) • [Email](delmasrichmond@gmail.com)
 
 
 
