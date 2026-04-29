@@ -7,12 +7,12 @@ Issu d'un parcours universitaire scientifique (MIPC), je combine rigueur académ
 
 ### Expériences en Cybersécurité (Stages à distance)
 
-**Future Interns** | *Stagiaire Cybersécurité (Remote)* | Avril 2026
+ *Stagiaire Cybersécurité (Remote)*  Avril 2026
 - Analyse de vulnérabilités Web et sécurisation d'APIs.
 - Étude et simulation de techniques de Phishing.
 - *Distinction : Certificat de fin de stage et lettre de recommandation obtenus.*
 
-**Prodigy InfoTech** | *Stagiaire Cybersécurité (Remote)* | Avril 2026
+ *Stagiaire Cybersécurité (Remote)*  Avril 2026
 - Développement d'outils : Chiffrement César et vérificateur de robustesse de mots de passe.
 - Analyse réseau : Implémentation pédagogique de keyloggers et analyse de paquets.
 
