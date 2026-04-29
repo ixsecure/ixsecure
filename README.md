@@ -44,7 +44,7 @@ Issu d'un parcours universitaire scientifique (MIPC), je combine rigueur académ
 ---
 
 ### Contact et Collaboration
-[LinkedIn](TON_LIEN_LINKEDIN) • [Email](mailto:TON_EMAIL)
+[LinkedIn](linkedin.com/in/richmonddelmas) • [Email](delmasrichmond@gmail.com)
 
 
 
