@@ -1,5 +1,8 @@
 # Richmond Delmas K.
-**Analyste Cybersécurité | Technicien Réseau | Futur Ingénieur en Sécurité Défensive**
+#  Futur Ingénieur Cloud Security
+### Analyste Cybersécurité | SOC | Network Security | Audit & Pentest
+
+---
 
 Issu d'un parcours universitaire scientifique en Mathématiques, Informatique, Physique et Chimie (MIPC), je combine une rigueur académique avec une expertise technique approfondie pour relever les défis complexes de la cybersécurité. Mon approche repose sur la protection des infrastructures critiques, l'analyse offensive et une veille technologique constante.
 
