@@ -1,4 +1,4 @@
-# Richmond Delmas K.
+# Richmond K.
 #  Futur Ingénieur Cloud Security
 ### Analyste Cybersécurité | SOC | Network Security | Audit & Pentest
 
