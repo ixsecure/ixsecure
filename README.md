@@ -106,49 +106,6 @@ Founder of a pan-African tech community focused on cybersecurity and networking.
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat)](https://beacons.ai/richmonddelmas)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:delmasrichmond@gmail.com)
 
----
----
 
-# Bonjour, je suis Richmond Konan 👋
-### Pentesteur Junior | Securite Offensive | Securite Reseau | Cote d'Ivoire 🇨🇮
 
----
-
-## A propos
-
-Analyste cybersecurite junior base en Cote d'Ivoire, specialise dans la **securite offensive**, les **tests d'intrusion** et l'**evaluation de vulnerabilites**. Issu d'une formation scientifique solide (Mathematiques, Physique, Informatique), j'ai choisi de me concentrer sur la decouverte des failles avant que les attaquants ne le fassent.
-
-Actuellement inscrit au programme d'excellence **Force-N** de l'Universite Numerique Cheikh Hamidou Kane (UN-CHK). Je construis mon experience pratique via des challenges CTF, des stages et des projets de recherche personnels.
-
-Disponible pour des **stages remote**, des **postes pentest junior** et des **missions freelance d'audit de securite**.
-
----
-
-## Ce que je fais
-
-```
-- Tests d'intrusion web (methodologie OWASP)
-- Reconnaissance reseau et scan de ports (Nmap, Wireshark)
-- Evaluation de la securite des API (Postman)
-- Identification et exploitation de vulnerabilites (CTF, labs)
-- Rapports d'audit et recommandations de remediation
-- Analyse d'en-tetes email et simulation de phishing
-```
-
----
-
-## En cours d'apprentissage
-
-- TryHackMe & HackTheBox — pratique CTF active
-- Preparation certification eJPT / PNPT
-- Exploitation web : SQLi, XSS, IDOR, SSRF
-- Scripting Python pour l'automatisation offensive
-- Techniques avancees Burp Suite
-
----
-
-## Me contacter
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/richmonddelmas)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:delmasrichmond@gmail.com)
 
