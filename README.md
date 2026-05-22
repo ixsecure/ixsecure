@@ -1,5 +1,5 @@
 # Hi, I'm Richmond Konan 👋
-### Junior Penetration Tester | Offensive Security | Network Security | Côte d'Ivoire 🇨🇮
+### Cybersecurity Analyst | Pentester | Vulnerability researcher | Technical writer | AI Enthusiast 🇨🇮
 
 ---
 
