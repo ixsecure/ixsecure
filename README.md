@@ -103,7 +103,6 @@ Founder of a pan-African tech community focused on cybersecurity and networking.
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/richmonddelmas)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat)](https://beacons.ai/richmonddelmas)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:delmasrichmond@gmail.com)
 
 
